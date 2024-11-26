@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo da Memória</title>
+    <link rel="stylesheet" href="./src/styles/reset.css">
+    <link rel="stylesheet" href="./src/styles/main.css">
+</head>
+
+<body>
+    <div class="container">
+        <h2>Jogo da Memória</h2>
+        <div class="game"></div>
+        <button class="reset">Reiniciar</button>
+    </div>
+    <div class="modal" id="winModal">
+        <div class="modal-content">
+            <h2>Parabéns!</h2>
+            <p>Você venceu o jogo!</p>
+            <button id="closeModal">Fechar</button>
+        </div>
+    </div>
+
+    <script src="./src/scripts/engine.js" defer></script>
+</body>
+
+</html>
