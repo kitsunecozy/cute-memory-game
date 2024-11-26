@@ -1,4 +1,4 @@
-## Cute Memory Game
+## ✨ Cute Memory Game
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/kitsunecozy/memory-game/refs/heads/main/src/images/Memory_Game.png?token=GHSAT0AAAAAACZCLB43HTI2ZAAKD2BCKMGMZ2FHTMQ" alt="Memory Game Screenshot do Jogo">
